@@ -1,40 +1,40 @@
-#EXPERIENCE
-###*Present*
+# EXPERIENCE
+### *Present*
 
-###Science and Technology Teacher
+### Science and Technology Teacher
 Albuquerque Public Schools
 
-###*Previous*
+### *Previous*
 
-###Summer Program Director
+### Summer Program Director
 YMCA Camp Colman
-###Wilderness Programs Coordinator
+### Wilderness Programs Coordinator
 Camp Gray
-###Wilderness Trip Leader & Camp Counselor
+### Wilderness Trip Leader & Camp Counselor
 Camp Gray
-###Lead Counselor & Science Program Counselor
+### Lead Counselor & Science Program Counselor
 Lions Camp Tatiyee
 
-#EDUCATION
-###MA in Elementary Education
+# EDUCATION
+### MA in Elementary Education
 University of New Mexico
-###Certificate for Teacher Licensure
+### Certificate for Teacher Licensure
 Central New Mexico Community College
-###BS in Parks and Recreation Management
+### BS in Parks and Recreation Management
 Northern Arizona University
 
-#SKILLS + CERTIFICATIONS
-###Level Three Teaching License
+# SKILLS + CERTIFICATIONS
+### Level Three Teaching License
 State of New Mexico Public Education Department
-###Outdoor Leadership Certification
+### Outdoor Leadership Certification
 Northern Arizona University
-###Leave No Trace Trainer
+### Leave No Trace Trainer
 Leave No Trace Inc
 
-#AWARDS + MEMBERSHIPS
-###Volunteer Service Award
+# AWARDS + MEMBERSHIPS
+### Volunteer Service Award
 Camp Gray
-###Member
+### Member
 National Science Teacher Association
-###Member
+### Member
 Albuquerque Teachers Federation
