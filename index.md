@@ -43,9 +43,7 @@ National Science Teacher Association
 Albuquerque Teachers Federation
 
 # GRANT FUNDED PROJECTS
-###
-Balloon Mapping and Atmospheric Data Collection  
+### Balloon Mapping and Atmospheric Data Collection  
 *Using a large helium balloon, camera  and microprocessor students will collect atmospheric data and images as part of their study of meteorology.*
-###
-Augmented Reality Sandbox  
+### Augmented Reality Sandbox  
 *Students using the Augmented Reality Sandbox create physical models of geologic features using sand and interact with a digital topographic map which is rendered onto the sand using software and hardware.*
