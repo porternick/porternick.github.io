@@ -1,7 +1,7 @@
-title: Nicholas A. Porter
-description: I like to teach science and tinker in wood and code. | 505.750.8362 | nick@porternick.com
+title: Nicholas Porter
+description: I like to teach science and tinker in wood and code.
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 gems:
