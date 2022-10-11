@@ -31,6 +31,8 @@ Northern Arizona University
 # CERTIFICATIONS
 ### Level Three Teaching License
 State of New Mexico Public Education Department
+### Apple Teacher
+Demonstrated proficiency in use of Apple products in the classroom
 ### Outdoor Leadership Certification
 Northern Arizona University
 ### Leave No Trace Trainer
