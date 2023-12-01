@@ -1,12 +1,15 @@
 # EXPERIENCE
 ### *Present*
 
-### Science and Technology Teacher
-Albuquerque Public Schools  
-*Facilitated project-based opportunities focusing on citizen science and the development of technologies.*
+### Systems & Network Analyst 2 / Research Computing Facilitation Specialist
+Center for Advanced Research Computing, The University of New Mexico
+*Focusing on supporting the research computing needs of the University's faculty, staff, and student researchers.*
 
 ### *Previous*
 
+### Science and Technology Teacher
+Albuquerque Public Schools  
+*Facilitated project-based opportunities focusing on citizen science and the development of technologies.*
 ### Summer Program Director
 YMCA Camp Colman  
 *Developed curriculum and implemented summer camping program. Ensured program conformed to American Camp Association standards.*
