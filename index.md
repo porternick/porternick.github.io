@@ -1,15 +1,12 @@
 # EXPERIENCE
 ## *Present*
-
 ### STEM Implementation Coach, Sustaining the Future Pathway
-Albuquerque Public Schools
+Albuquerque Public Schools  
 *Provides job-embedded coaching and supports integration of Environmental STEM into instruction, while collaborating with school and district leaders on theme-based projects, data analysis, professional development, and certification efforts.*
-
 ## *Previous*
-
 ### Systems & Network Analyst 2 / Research Computing Facilitation Specialist
-Center for Advanced Research Computing, The University of New Mexico
-*Focusing on supporting the research computing needs of the University's faculty, staff, and student researchers.*
+Center for Advanced Research Computing, The University of New Mexico  
+*Focused on supporting the research computing needs of the University's faculty, staff, and student researchers.*
 ### Science and Technology Teacher
 Albuquerque Public Schools  
 *Facilitated project-based opportunities focusing on citizen science and the development of technologies.*
@@ -55,5 +52,6 @@ Albuquerque Teachers Federation
 *Using a large helium balloon, camera  and microprocessor students will collect atmospheric data and images as part of their study of meteorology.*
 ### Augmented Reality Sandbox  
 *Students using the Augmented Reality Sandbox create physical models of geologic features using sand and interact with a digital topographic map which is rendered onto the sand using software and hardware.*
+
 
 
